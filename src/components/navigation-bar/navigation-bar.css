@@ -1,0 +1,12 @@
+#navigation {
+    top: 0;
+    /* width: 100%; */
+    position: sticky;
+    padding: 1rem;
+    /* background-color: #fafafa; */
+    border-bottom: .1rem solid #DfDfDf;
+    box-shadow: 0 0 4px 0 #DfDfDf;
+    height: var(--navbar-height);
+    /* display: flex; */
+
+}
